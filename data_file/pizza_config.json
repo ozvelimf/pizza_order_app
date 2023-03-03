@@ -1,0 +1,47 @@
+{
+    "pizza": {
+        "1" : {
+            "cost": 50,
+            "description": "Klasik Pizza"
+        },
+        "2": {
+            "cost": 55,
+            "description": "Margarita Pizza"
+        },
+        "3": {
+            "cost": 60,
+            "description": "Türk Usulü Pizza"
+        },
+        "4": {
+            "cost": 55,
+            "description": "Sade Pizza"
+        }
+    },
+
+    "souce": {
+        "11": {
+            "cost": 10,
+            "description": "Zeytinli"
+        },
+        "12": {
+            "cost": 15,
+            "description": "Mantarlı"
+        },
+        "13": {
+            "cost": 15,
+            "description": "Keçi peynirli"
+        },
+        "14": {
+            "cost": 25,
+            "description": "Etli"
+        },
+        "15": {
+            "cost": 10,
+            "description": "Soğanlı"
+        },
+        "16": {
+            "cost": 12,
+            "description": "Mısırlı"
+        }
+    }
+}
