@@ -10,10 +10,6 @@ def run():
     # Menu fonsiyonu
     app_model.show_menu()
 
-    # Pizza ve sos için sözlükler oluşturuldu
-    pizza_order = dict()
-    souce_order = dict()
-
     # get_order fonsiyonu ile müşteriden siparişi alındı
     pizza_input, souce_input = get_order()
 
