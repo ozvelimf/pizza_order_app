@@ -1,5 +1,5 @@
 from files.model.app_model import *
-# ==================== Source üst sınıfı =================== #
+# ==================== Souce üst sınıfı =================== #
 class Souce():
     def __init__(self, souce_input):
         self.souce_order = dict()
@@ -12,7 +12,7 @@ class Souce():
         return self.__description    
 
 
-# ============= Source sınıfının alt sınıfları ============= #
+# ============= Souce sınıfının alt sınıfları ============= #
 
 # Zeytin sosu
 class Olive(Souce): 
